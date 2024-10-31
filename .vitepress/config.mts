@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
     title: 'Ryuwiki',
-    description: 'Ryuwiki is a simple wiki for the Ryujinx project.',
+    description: 'Ryuwiki is a simple wiki for Greemdev/Ryujinx.',
     lang: 'en-US',
     lastUpdated: true,
     cleanUrls: true,
@@ -16,7 +16,6 @@ export default defineConfig({
         ["meta", { property: "og:description", content: "Ryuwiki is a simple wiki for the ryujinx project.", }],
         ["meta", { property: "og:type", content: "website" }],
         ["meta", { property: "og:url", content: "https://wiki.ryujinx.app" }],
-        ["meta", { property: "og:image", content: "https://wiki.ryujinx.app/media/ryugay.webp" }],
         ["meta", { name: "twitter:description", content: "Ryuwiki is a simple wiki for the ryujinx project.", }],
     ],
     vite: {
