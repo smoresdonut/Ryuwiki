@@ -28,7 +28,7 @@ export default defineConfig({
         theme: "github-dark"
     },
     themeConfig: {
-        logo: '/assets/ryujint.webp',
+        logo: 'assets/ryujint.webp',
         sidebar: [
             {
                 text: '',
