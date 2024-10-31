@@ -12,7 +12,7 @@ export default defineConfig({
     hostname: 'https://wiki.ryujinx.app'
     },
     head: [
-        ["link", { rel: "icon", href: "assets/ryujint.webp" }],
+        ["link", { rel: "icon", href: "assets/ryujint.png" }],
         ["meta", { property: "og:description", content: "Ryuwiki is a simple wiki for the ryujinx project.", }],
         ["meta", { property: "og:type", content: "website" }],
         ["meta", { property: "og:url", content: "https://wiki.ryujinx.app" }],
@@ -28,7 +28,7 @@ export default defineConfig({
         theme: "github-dark"
     },
     themeConfig: {
-        logo: 'assets/ryujint.webp',
+        logo: 'assets/ryujint.png',
         sidebar: [
             {
                 text: '',
