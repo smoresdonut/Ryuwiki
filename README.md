@@ -1,5 +1,5 @@
 # Ryuwiki
-The wiki for Greendev/Ryujinx
+The wiki for [Greendev/Ryujinx](https://github.com/GreemDev/Ryujinx)
 
 ## Contribute
 You can contribute to Ryuwiki with PRs and issues. Contributing code and other implementations is greatly appreciated alongside simply filing issues for problems you encounter.
